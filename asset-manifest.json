@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shoppingmall/static/css/main.513220e7.chunk.css",
+    "main.js": "/shoppingmall/static/js/main.31ec2f57.chunk.js",
+    "main.js.map": "/shoppingmall/static/js/main.31ec2f57.chunk.js.map",
+    "runtime-main.js": "/shoppingmall/static/js/runtime-main.12461de5.js",
+    "runtime-main.js.map": "/shoppingmall/static/js/runtime-main.12461de5.js.map",
+    "static/js/2.31ed8bad.chunk.js": "/shoppingmall/static/js/2.31ed8bad.chunk.js",
+    "static/js/2.31ed8bad.chunk.js.map": "/shoppingmall/static/js/2.31ed8bad.chunk.js.map",
+    "static/js/3.1234456c.chunk.js": "/shoppingmall/static/js/3.1234456c.chunk.js",
+    "static/js/3.1234456c.chunk.js.map": "/shoppingmall/static/js/3.1234456c.chunk.js.map",
+    "index.html": "/shoppingmall/index.html",
+    "static/css/main.513220e7.chunk.css.map": "/shoppingmall/static/css/main.513220e7.chunk.css.map",
+    "static/js/2.31ed8bad.chunk.js.LICENSE.txt": "/shoppingmall/static/js/2.31ed8bad.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shoppingmall/static/media/background.739617fe.jpg",
+    "static/media/logo.6ce24c58.svg": "/shoppingmall/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12461de5.js",
+    "static/js/2.31ed8bad.chunk.js",
+    "static/css/main.513220e7.chunk.css",
+    "static/js/main.31ec2f57.chunk.js"
+  ]
+}
